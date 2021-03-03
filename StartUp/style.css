@@ -1,110 +1,113 @@
-html, 
+html,
 body {
-	height: 100%;
-	color: #6c6f73;
+  height: 100%;
+  color: #6c6f73;
 }
 
-h1,h2,h3,h4,h5 {
-	color: #333;
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: #333;
 }
 
 h6 {
-	text-transform: uppercase;
-	font-weight: bold;
-	font-size: 0.8rem;
-	letter-spacing: 0.2rem;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 0.8rem;
+  letter-spacing: 0.2rem;
 }
 
 img {
-	max-width: 100%;
+  max-width: 100%;
 }
 
 #stage {
-	background: url(img/stage.jpeg) center no-repeat;
-	/*background: url('img/stage.jpeg') 0% 90%/cover no-repeat;*/
-	background-size: cover;
-	height: 100%;
-	display: flex;
-	align-items: center;
+  background: url(img/stage.jpeg) center no-repeat;
+  background-size: cover;
+  height: 100%;
+  display: flex;
+  align-items: center;
 }
 
 #stage-caption {
-	margin: auto 0;
-	text-align: center;
-	width: 100%;
-	color: white;	
-	font-weight: 200;
-	font-size: 2rem;
+  margin: auto 0;
+  text-align: center;
+  width: 100%;
+  color: white;
+  font-weight: 200;
+  font-size: 2rem;
 }
 
 #stage-caption h1 {
-	font-weight: bold;
-	text-transform: uppercase;
-	color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: white;
 }
 
 .feature-content {
-	padding: 8rem;
-	overflow: hidden;
+  padding: 8rem;
+  overflow: hidden;
 }
 
 .feature-content img {
-	margin-bottom: -8rem;
+  margin-bottom: -8rem;
 }
 
 .feature-dark {
-	background: #262f36;
-	color: white;
+  background: #262f36;
+  color: white;
 }
 
 .feature-dark h2 {
-	color: white;
+  color: white;
 }
 
 #feature-two img {
-	height: 450px;
+  height: 450px;
 }
 
-#feature-four .feature-content{
-	background: #f0f0f0;
-	padding: 0;
+#feature-four .feature-content {
+  background: #f0f0f0;
+  padding: 0;
 }
 
 .blockquote {
-	font-size: 1.6rem;
-	color: #333;
-	border: none;
-	padding: 0;
+  font-size: 1.6rem;
+  color: #333;
+  border: none;
+  padding: 0;
 }
 
 .blockquote-footer {
-	margin: 1rem 0 0 ;
+  margin: 1rem 0 0;
 }
 
 #feature-five img {
-	margin-top: 2rem;
-	padding-bottom: 2rem;
+  margin-top: 2rem;
+  padding-bottom: 2rem;
 }
 
 #feature-six img {
-	max-height: 100%;
+  max-height: 100%;
 }
 
 #feature-seven a {
-	margin-top: 1rem;
+  margin-top: 1rem;
 }
 
 #footer-main {
-	background: #262f36;
-	color: white;
-	padding: 3rem 0;
-	font-size: 0.8rem;
+  background: #262f36;
+  color: white;
+  padding: 3rem 0;
+  font-size: 0.8rem;
 }
 
 #footer-main h6 {
-	color: #718fa9;
+  color: #718fa9;
 }
 
 #footer-main a {
-	color: #6c6f73;
+  color: #6c6f73;
 }

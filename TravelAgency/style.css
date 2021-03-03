@@ -1,102 +1,94 @@
 html,
 body {
-	height: 100%;
-	color: #6c6f73;
+  height: 100%;
+  color: #6c6f73;
 }
 
 img {
-	max-width: 100%;
+  max-width: 100%;
 }
 
 h2 {
-	text-transform: uppercase;
-	font-weight: bold;
-	letter-spacing: 0.2rem;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 0.2rem;
 }
 
-
 #cover {
-	background:#222 url('img/map2.jpg')center no-repeat;
-	background-size: cover;
-	opacity: 0.8;
-	color: white;
-	text-align: center;
-	height: 100%;
-	display: flex;
-	align-items: center;
+  background: #222 url("img/map2.jpg") center no-repeat;
+  background-size: cover;
+  opacity: 0.8;
+  color: white;
+  text-align: center;
+  height: 100%;
+  display: flex;
+  align-items: center;
 }
 
 #cover-caption {
-	width:100%;
-	margin: auto;
+  width: 100%;
+  margin: auto;
 }
 
 .arrow {
-	width: 50px;
-	height: 70px;
+  width: 50px;
+  height: 70px;
 }
 
 .container {
-	padding-top: 2rem;
+  padding-top: 2rem;
 }
 
-/*NAV*/
 nav img {
-	margin-right: 5px;
+  margin-right: 5px;
 }
 
-/*Carusel */
-.carousel-item img{
-	width: 100%;
-	margin: auto;
+.carousel-item img {
+  width: 100%;
+  margin: auto;
 }
 
 .section-content {
-	padding: 5rem 0;
+  padding: 5rem 0;
 }
 
-/*Offer*/
 #offer h4 {
-	text-align: center;
-	padding: 1rem;
+  text-align: center;
+  padding: 1rem;
 }
 
-/*The best offer*/
 #promotion {
-	padding: 2.5rem 2rem;
+  padding: 2.5rem 2rem;
 }
 
-/*About*/
 #about {
-	background: url('img/world3.jpg') center center no-repeat;
-	background-size: cover;
+  background: url("img/world3.jpg") center center no-repeat;
+  background-size: cover;
 }
 
 .text-about {
-	background: rgba(0,0,0,0.8);
-	color: white;
-	padding: 1.875rem;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 1.875rem;
 }
 
- /*Last minute */
- #lastMinute {
-	background: url('img/time.jpg') center center no-repeat;
-	background-size: cover;
+#lastMinute {
+  background: url("img/time.jpg") center center no-repeat;
+  background-size: cover;
 }
 
 .jumbotron {
-	background: rgba(0,0,0,0.3);
-	color: white;
+  background: rgba(0, 0, 0, 0.3);
+  color: white;
 }
 
 .jumbotron button {
-	margin: 0.5rem;
+  margin: 0.5rem;
 }
 
-/*Footer*/
 #footer-main {
-	background: #222;
-	color: white;
-	font-size: 0.8rem;
-	padding: 2.5rem 0;
+  background: #222;
+  color: white;
+  font-size: 0.8rem;
+  padding: 2.5rem 0;
 }
