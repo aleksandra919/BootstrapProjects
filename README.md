@@ -1,19 +1,14 @@
-# BootstrapProjects
+# Bootstrap Projects
 
-Used technologies: BOOTSTRAP4, JAVASCRIPT, HTML5, CSS3
+Website template for diffrent business - startup, travel agency, music band.
+
+Technologies: HTML5, CSS3, Bootstrap4, JavaScript
 
 Project 1: StartUp website
-
-Project 2.Travel Agency Website
-
-Project 3: Music band website
-
-Technologies: HTML5, CSS3, Bootstrap4
-
 ![](band.gif)
 
-
+Project 2.Travel Agency Website
 ![](startup.gif)
 
-
+Project 3: Music band website
 ![](travelAgency.gif)
