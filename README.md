@@ -11,5 +11,9 @@ Project 3: Music band website
 Technologies: HTML5, CSS3, Bootstrap4
 
 ![](band.gif)
+
+
 ![](startup.gif)
+
+
 ![](travelAgency.gif)
